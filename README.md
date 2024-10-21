@@ -1,3 +1,5 @@
+```csharp
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -12,7 +14,7 @@ namespace FlappyBird
 {
     public partial class Form1 : Form
     {
-
+ 
         // kuşun hızını yer çekimini ve her geçtiğimiz engel üzerinden aldığımız puanı tanımlıyoruz 
         int kushizi = 8;
         int yercekimi = 10;
